@@ -257,6 +257,122 @@ FOOTER
 }
 
 
+/*************************
+SERVICES
+*************************/
+
+#wrapper {
+	background: #2f9ca6;
+	width: 100%;
+	margin: 0 auto;
+}
+
+#services {
+	padding: 140px 0 80px 0;
+	width: 830px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+#services h1{
+	font-family: gotham-book, helvetica;
+	font-size: 44pt;
+	color: white;
+}
+
+#services li {
+	padding-bottom: 140px;
+	text-decoration: none;
+	list-style: none;
+}
+
+#services span {
+	padding-left: 20px;
+	font-family: helvetica;
+	font-size: 18pt;
+	color: white;
+}
+
+.arrows {
+	margin-top: 10px;
+}
+
+.arrows a{
+	text-decoration: none;
+	transition: transform 0.3s
+}
+
+.arrows a:hover{
+	text-decoration: none;
+	color: white;
+	transform: scale(1.25);
+	-webkit-transform: scale(1.25);
+}
+
+#executive {
+	width: 100%;
+	margin: 0 auto;
+	text-align: center;
+}
+
+
+#executive h1{
+	font-family: gotham-bold, helvetica;
+	font-size: 44pt;
+	color: #2a8891;
+	text-align: center;
+}
+
+#executive span{
+	font-family: helvetica;
+	font-size: 34pt;
+	font-style: italic;
+	color: #2a8891;
+}
+
+#banner {
+	width: 100%;
+	background: url(../images/banner.jpg)no-repeat;
+	height: 370px;
+	margin-top: 50px;
+}
+
+#banner_text {
+	width: 70%;
+	margin: 0 auto;
+	text-align: left;
+	font-family: helvetica;
+	color: white;
+	font-size: 18pt;
+	padding-top: 85px;
+}
+
+#banner_text p {
+	font-weight: lighter;
+	padding-bottom: 30px;
+}
+
+#executive_text {
+	width: 70%;
+	margin: 0 auto;
+	text-align: left;
+	font-size: 16pt;
+	font-family: helvetica;
+	color: #2a8891;
+	margin: 40px auto 40px auto;
+	line-height: 25pt;
+}
+
+#executive_text p{
+	padding-bottom: 30px;
+}
+
+#executive #executive_text span {
+	font-weight: bold;
+	font-style: italic;
+	font-size: 16pt;
+}
+
 
 
 
